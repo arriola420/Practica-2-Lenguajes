@@ -1,6 +1,9 @@
 # Practica II Lenguajes de Programación
 ### PROGRAMACION FUNCIONAL
 ### Integrantes: Juan Miguel Arriola Mazo.
+## Videos:
+#### Sustentación Práctica II: https://youtu.be/LRZPIb5ivYM?si=hzIa2SBBMqZgq7CN
+
 ## Descripción:
 
 Abordamos la tarea de procesar y analizar datos acerca de los aspirantes a entrar a una universidad,
