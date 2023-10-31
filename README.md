@@ -3,6 +3,7 @@
 ### Integrantes: Juan Miguel Arriola Mazo.
 ## Videos:
 #### Sustentación Práctica II: https://youtu.be/LRZPIb5ivYM?si=hzIa2SBBMqZgq7CN
+#### Presentación Haskell: https://youtu.be/nuhiMmJXINQ?si=1B0fBPbgKtAQcXDE
 
 ## Descripción:
 
